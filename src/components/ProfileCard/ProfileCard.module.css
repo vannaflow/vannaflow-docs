@@ -7,4 +7,5 @@
   border: 2px solid black;
   border-radius: 50%;
   width: min(15rem, 100%);
+  height: auto;
 }

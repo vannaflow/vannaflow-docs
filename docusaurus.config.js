@@ -8,8 +8,8 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 const config = {
   title: "Vannaflow Docs",
   tagline: "The People's Hub for Investing",
-  url: "https://vannaflow.github.io",
-  baseUrl: "/vannaflow-docs/",
+  url: "https://docs.vannaflow.com",
+  baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/Vannaflow-06-cropped.ico",
