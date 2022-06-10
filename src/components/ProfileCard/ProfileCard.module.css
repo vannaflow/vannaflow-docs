@@ -1,0 +1,10 @@
+.profileContainer {
+  display: flex;
+  gap: 2rem;
+}
+
+.profilePicture {
+  border: 2px solid black;
+  border-radius: 50%;
+  width: min(15rem, 100%);
+}

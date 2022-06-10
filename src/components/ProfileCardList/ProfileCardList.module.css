@@ -1,0 +1,5 @@
+.profileCardList {
+  padding: 1rem;
+  display: grid;
+  gap: 2rem;
+}
