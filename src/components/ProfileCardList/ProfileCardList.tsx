@@ -1,5 +1,5 @@
 import React from "react";
-import styles from "./ProfileCardList.module.css";
+import styles from "./ProfileCardList.module.scss";
 
 type Props = {
   children: React.ReactNode;
