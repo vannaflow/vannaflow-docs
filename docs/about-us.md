@@ -1,5 +1,6 @@
 ---
-sidebar_position: 4
+sidebar_position: 1
+slug: /
 ---
 
 import ProfileCard from '@site/src/components/ProfileCard';
