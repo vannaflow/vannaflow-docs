@@ -19,8 +19,6 @@ jobs:
 
       - name: Set up Node
         uses: actions/setup-node@v2
-        with:
-          node-version: "16"
 
       - name: Build Docusaurus website
         run: |
@@ -33,6 +31,5 @@ jobs:
         with:
           target_branch: gh-pages
           build_dir: build
-          domain: docs.vannaflow.com
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
