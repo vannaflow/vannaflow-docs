@@ -59,9 +59,9 @@ const config = {
         items: [
           {
             type: "doc",
-            docId: "intro",
+            docId: "intro/what-is-vannaflow",
             position: "left",
-            label: "Tutorial",
+            label: "Introduction",
           },
         ],
       },
@@ -72,7 +72,7 @@ const config = {
             title: "Docs",
             items: [
               {
-                label: "Tutorial",
+                label: "Introduction",
                 to: "/",
               },
             ],

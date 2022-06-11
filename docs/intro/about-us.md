@@ -1,6 +1,5 @@
 ---
-sidebar_position: 1
-slug: /
+sidebar_position: 2
 ---
 
 import ProfileCard from '@site/src/components/ProfileCard';
@@ -8,7 +7,7 @@ import ProfileCardList from '@site/src/components/ProfileCardList';
 
 # About Us
 
-Pellentesque porta, sem ut convallis varius, turpis erat finibus quam, ut blandit justo velit sed risus.
+Pellentesque porta, sem ut convallis varius, turpis erat finibus quam, ut blandit justo velit sed risus. Nulla at volutpat ante. Duis ornare sem sit amet euismod lacinia. Integer ultrices consectetur dui. Ut non malesuada dui.
 
 ## Meet the Team
 
