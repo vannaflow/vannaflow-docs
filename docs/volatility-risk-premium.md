@@ -1,4 +1,5 @@
 ---
+title: Volatility Risk Premium
 sidebar_position: 2
 ---
 
@@ -17,4 +18,4 @@ There are several reasons why implied volatility is upwardly biased:
 
 The volatility risk premium fluctuates over time and reflects investors' risk aversion and tendency to overestimate the probability of significant losses. Its existence alone is not a good enough reason to sell options, but acknowledging its presence creates the opportunity to develop systematic methods to determine when an option is overpriced.
 
-The volatility risk premium is measured through the difference between implied and realized volatility, and its relative value gives the most information. The relative value provides insight into where it sits in its history and is presented within the Volatility Risk Premium chart. Higher readings indicate stable periods in the market but could be a tailwind to future performance, and lower readings indicate uncertainty and risk but could be a tailwind on a bearish market.
+The volatility risk premium is measured through the difference between implied and realized volatility, and its relative value gives the most information. The relative value provides insight into where it sits in its history and is presented within the Volatility Risk Premium chart. Higher readings indicate stable periods in the market but a tailwind for short volatility positions, and lower readings indicate uncertainty and risk but a tailwind for long volatility positions.

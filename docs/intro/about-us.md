@@ -1,4 +1,5 @@
 ---
+title: About Us
 sidebar_position: 2
 ---
 
